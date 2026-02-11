@@ -14,3 +14,6 @@ System design for the Target or stoploss
 # Back of the envelope Estimation
   - 
 
+
+
+![alt text](Stocky.svg)
