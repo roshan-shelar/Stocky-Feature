@@ -49,4 +49,7 @@ System design for the Target or stoploss
   7) Exchange Service
       - Responsible for all the communication between the Exchange house
       - Maintains TCP sessions with NSE/BSE
+
+
+Link to the excalidraw for diagram:  https://excalidraw.com/#json=9z1bBbLNlNL-mAFLTaPn9,IEHJQZOI0-4d3SzA_8I8Nw
      
