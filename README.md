@@ -38,4 +38,12 @@ System design for the Target or stoploss
     - Why we used it
       - Decoupling
       - High scalability
+  5) RMS
+     - responsible to verify order before even used by any module
+     - only valid orders would be sent to the next step
+  6) OMS
+     - Responsible for sending orders to the exchange service
+  7) Exchange Service
+      - Responsible for all the communication between the Exchange house
+      - Maintains TCP sessions with NSE/BSE
      
