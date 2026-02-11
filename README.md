@@ -16,4 +16,4 @@ System design for the Target or stoploss
 
 
 
-![alt text](Stocky.svg)
+![alt text](stocky.svg)
