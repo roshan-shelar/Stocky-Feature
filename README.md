@@ -43,6 +43,9 @@ System design for the Target or stoploss
      - only valid orders would be sent to the next step
   6) OMS
      - Responsible for sending orders to the exchange service
+  7) Order Tracker service
+     - consumes: order status
+     - update the status and exchange order id in the DB
   7) Exchange Service
       - Responsible for all the communication between the Exchange house
       - Maintains TCP sessions with NSE/BSE
